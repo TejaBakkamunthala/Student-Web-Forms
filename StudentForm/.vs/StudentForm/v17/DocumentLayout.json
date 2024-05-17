@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\getallstudents.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:getallstudents.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|f:\\dotnetprogramss\\studentwebforms\\studentform\\getallstudents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:getallstudents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\deletestudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:deletestudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\deletestudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:deletestudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\searchdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:searchdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\searchdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:searchdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\sortedstudentslist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:sortedstudentslist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\updatestudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:updatestudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\studentdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:studentdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\updatestudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:updatestudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\studentdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:studentdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\sortedstudentslist.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:sortedstudentslist.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\sortedstudentslist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:sortedstudentslist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2784BB-F4E2-467A-B432-17DCBDF0330A}|StudentForm.csproj|solutionrelative:login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllStudents.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\GetAllStudents.aspx.cs",
+              "RelativeDocumentMoniker": "GetAllStudents.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\GetAllStudents.aspx.cs",
+              "RelativeToolTip": "GetAllStudents.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:10:16.205Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteStudent.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\DeleteStudent.aspx",
+              "RelativeDocumentMoniker": "DeleteStudent.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\DeleteStudent.aspx",
+              "RelativeToolTip": "DeleteStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T06:46:05.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteStudent.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\DeleteStudent.aspx.cs",
+              "RelativeDocumentMoniker": "DeleteStudent.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\DeleteStudent.aspx.cs",
+              "RelativeToolTip": "DeleteStudent.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:47:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllStudents.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\GetAllStudents.aspx",
+              "RelativeDocumentMoniker": "GetAllStudents.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\GetAllStudents.aspx",
+              "RelativeToolTip": "GetAllStudents.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T06:05:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Register.aspx",
+              "RelativeDocumentMoniker": "Register.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Register.aspx",
+              "RelativeToolTip": "Register.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T04:18:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Register.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Register.aspx.cs",
+              "RelativeToolTip": "Register.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:18:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\favicon.ico",
+              "RelativeDocumentMoniker": "favicon.ico",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-05-06T12:26:08.256Z",
+              "EditorCaption": " -  [English (United States)] - Icon [16x16, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-01T09:08:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:25:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchDetails.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SearchDetails.aspx.cs",
+              "RelativeDocumentMoniker": "SearchDetails.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SearchDetails.aspx.cs",
+              "RelativeToolTip": "SearchDetails.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:16:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchDetails.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SearchDetails.aspx",
+              "RelativeDocumentMoniker": "SearchDetails.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SearchDetails.aspx",
+              "RelativeToolTip": "SearchDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T10:01:39.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Site.Mobile.Master",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Site.Mobile.Master",
+              "RelativeToolTip": "Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T06:18:08.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SortedStudentsList.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SortedStudentsList.aspx",
+              "RelativeDocumentMoniker": "SortedStudentsList.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SortedStudentsList.aspx",
+              "RelativeToolTip": "SortedStudentsList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T10:47:05.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateStudent.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\UpdateStudent.aspx",
+              "RelativeDocumentMoniker": "UpdateStudent.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\UpdateStudent.aspx",
+              "RelativeToolTip": "UpdateStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T06:49:11.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentDetail.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\StudentDetail.aspx",
+              "RelativeDocumentMoniker": "StudentDetail.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\StudentDetail.aspx",
+              "RelativeToolTip": "StudentDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T17:19:42.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateStudent.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\UpdateStudent.aspx.cs",
+              "RelativeDocumentMoniker": "UpdateStudent.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\UpdateStudent.aspx.cs",
+              "RelativeToolTip": "UpdateStudent.aspx.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:53:30.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:09:45.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T05:50:28.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentDetail.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\StudentDetail.aspx.cs",
+              "RelativeDocumentMoniker": "StudentDetail.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\StudentDetail.aspx.cs",
+              "RelativeToolTip": "StudentDetail.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:25:15.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SortedStudentsList.aspx.designer.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SortedStudentsList.aspx.designer.cs",
+              "RelativeDocumentMoniker": "SortedStudentsList.aspx.designer.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SortedStudentsList.aspx.designer.cs",
+              "RelativeToolTip": "SortedStudentsList.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:03:39.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SortedStudentsList.aspx.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SortedStudentsList.aspx.cs",
+              "RelativeDocumentMoniker": "SortedStudentsList.aspx.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\SortedStudentsList.aspx.cs",
+              "RelativeToolTip": "SortedStudentsList.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwCUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:47:37.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T18:11:41.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Site.Master",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T11:53:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Site.Master.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Site.Master.cs",
+              "RelativeToolTip": "Site.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:05:20.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Contact.aspx",
+              "RelativeDocumentMoniker": "Contact.aspx",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Contact.aspx",
+              "RelativeToolTip": "Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T11:53:11.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Site.Mobile.Master.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Site.Mobile.Master.cs",
+              "RelativeDocumentMoniker": "Site.Mobile.Master.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Site.Mobile.Master.cs",
+              "RelativeToolTip": "Site.Mobile.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:05:03.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Default.aspx.designer.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Default.aspx.designer.cs",
+              "RelativeToolTip": "Default.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:37:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Login.aspx.designer.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentWebForms\\StudentForm\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:13:53.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
